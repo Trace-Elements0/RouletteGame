@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\repos\\Roulette\\Roulette\\Roulette.csproj": {}
+    "C:\\Users\\jorge\\Source\\Repos\\RouletteGame\\Roulette\\Roulette.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\repos\\Roulette\\Roulette\\Roulette.csproj": {
+    "C:\\Users\\jorge\\Source\\Repos\\RouletteGame\\Roulette\\Roulette.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\repos\\Roulette\\Roulette\\Roulette.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\Source\\Repos\\RouletteGame\\Roulette\\Roulette.csproj",
         "projectName": "Roulette",
-        "projectPath": "C:\\Users\\jorge\\repos\\Roulette\\Roulette\\Roulette.csproj",
+        "projectPath": "C:\\Users\\jorge\\Source\\Repos\\RouletteGame\\Roulette\\Roulette.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\repos\\Roulette\\Roulette\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\Source\\Repos\\RouletteGame\\Roulette\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

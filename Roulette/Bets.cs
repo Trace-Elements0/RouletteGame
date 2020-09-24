@@ -10,6 +10,7 @@ namespace Roulette
 {
     class Bets
     {
+        //
         public void Betting(string x)
         {
             string[] y = x.Split(' ');
@@ -72,9 +73,9 @@ namespace Roulette
             }
 
             //Columns
-            var fC = new List<int>() {3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36};
-            var sC = new List<int>() {2, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32, 35};
-            var tC = new List<int>() {1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34};
+            var fC = new List<int>() { 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36 };
+            var sC = new List<int>() { 2, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32, 35 };
+            var tC = new List<int>() { 1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34 };
 
             if (fC.Contains(num))
             {
@@ -90,18 +91,18 @@ namespace Roulette
             }
 
             //streets
-            var one = new List<int>() {1, 2, 3};
-            var two = new List<int>() {4, 5, 6};
-            var thr = new List<int>() {7, 8, 9};
-            var fou = new List<int>() {10, 11, 12};
-            var fiv = new List<int>() {13, 14, 15};
-            var six = new List<int>() {16, 17, 18};
-            var sev = new List<int>() {19, 20, 21};
-            var eig = new List<int>() {22, 23, 24};
-            var nin = new List<int>() {25, 26, 27};
-            var ten = new List<int>() {28, 29, 30};
-            var ele = new List<int>() {31, 32, 33};
-            var twe = new List<int>() {34, 35, 36};
+            var one = new List<int>() { 1, 2, 3 };
+            var two = new List<int>() { 4, 5, 6 };
+            var thr = new List<int>() { 7, 8, 9 };
+            var fou = new List<int>() { 10, 11, 12 };
+            var fiv = new List<int>() { 13, 14, 15 };
+            var six = new List<int>() { 16, 17, 18 };
+            var sev = new List<int>() { 19, 20, 21 };
+            var eig = new List<int>() { 22, 23, 24 };
+            var nin = new List<int>() { 25, 26, 27 };
+            var ten = new List<int>() { 28, 29, 30 };
+            var ele = new List<int>() { 31, 32, 33 };
+            var twe = new List<int>() { 34, 35, 36 };
 
             if (one.Contains(num))
             {
