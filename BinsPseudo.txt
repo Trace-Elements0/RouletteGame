@@ -1,0 +1,27 @@
+Bins pseudo
+
+starting with the color red and number 0
+iterating trhough numbers starting at 0 less than 39
+assign the color red then black
+until the number is 10
+
+starting with black
+iterating through numbers starting at 11
+assign the color black then red
+until the number is 18
+
+starting with red
+iterating through numbers starting at 19
+assign the color red then black
+until the number is 28
+
+starting with black
+iterating through numbers starting at 29
+assign the color black then red
+until the number is 36
+
+if the number is 37 or 38 assign the color green and the numbers 0 then 00round
+
+
+
+
